@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:f8fafc,35:e5e7eb,70:9ca3af,100:111827" alt="wave-bar" />
   <div style="margin-top:-108px; margin-bottom:56px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+♥︎" alt="typing-text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+❤︎" alt="typing-text" />
   </div>
 </div>
 
@@ -45,6 +45,7 @@
 
 ## Contact
 <p>
+<a href="https://tranquocdat.com"><img src="https://img.shields.io/badge/Website-tranquocdat.com-374151?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:tqdat410@gmail.com"><img src="https://img.shields.io/badge/Gmail-tqdat410%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/tqdat410"><img src="https://img.shields.io/badge/LinkedIn-tqdat410-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/tqdat410"><img src="https://img.shields.io/badge/Telegram-tqdat410-374151?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
