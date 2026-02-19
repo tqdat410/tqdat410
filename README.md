@@ -1,10 +1,9 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:f8fafc,35:e5e7eb,70:9ca3af,100:111827" alt="wave-bar" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+!" alt="typing-text" />
-</p>
+  <div style="margin-top:-108px; margin-bottom:56px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+♥︎" alt="typing-text" />
+  </div>
+</div>
 
 ## Technologies
 <p>
