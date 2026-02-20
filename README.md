@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:f8fafc,35:e5e7eb,70:9ca3af,100:111827" alt="wave-bar" />
+  <img src="https://res.cloudinary.com/do6szo7zy/image/upload/v1771566268/animated-wave_m4rgy4.svg" width="100%" alt="wave-bar" />
   <div style="margin-top:-108px; margin-bottom:56px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+❤︎" alt="typing-text" />
   </div>
