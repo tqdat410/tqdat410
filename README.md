@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://res.cloudinary.com/do6szo7zy/image/upload/v1771566268/animated-wave_m4rgy4.svg" width="100%" alt="wave-bar" />
   <div style="margin-top:-108px; margin-bottom:56px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;SAP+Technical+Consultant;Have+a+good+day+❤︎" alt="typing-text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=000000&center=true&vCenter=true&width=900&lines=Hi+there+!;I'm+Tran+Quoc+Dat;Software+Engineer;Have+a+good+day+❤︎" alt="typing-text" />
   </div>
 </div>
 
 ## Technologies
 <p>
   <img src="https://img.shields.io/badge/ABAP-0f172a?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" />
-  <img src="https://img.shields.io/badge/SAP%20RAP-1e293b?style=for-the-badge&logo=sap&logoColor=white" alt="SAP RAP" />
   <img src="https://img.shields.io/badge/Fiori%20/%20UI5-334155?style=for-the-badge&logo=sap&logoColor=white" alt="Fiori / UI5" />
   <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/Supabase-1e293b?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-334155?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kafka-475569?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Cloudflare-334155?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/n8n-475569?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
