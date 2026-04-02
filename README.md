@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Kafka-475569?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Cloudflare-334155?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/n8n-475569?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/...-334155?style=for-the-badge" alt="..." />
 </p>
 
 ## AI Usage
