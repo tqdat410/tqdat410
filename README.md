@@ -41,5 +41,5 @@
   <a href="https://t.me/tqdat410"><img src="https://img.shields.io/badge/Telegram-tqdat410-374151?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://x.com/trandat40"><img src="https://img.shields.io/badge/X-trandat40-4b5563?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <!-- <a href="https://www.upwork.com/freelancers/~0166de7b3633a9b092"><img src="https://img.shields.io/badge/Upwork-Profile-111827?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a> -->
-  <a href="https://linktr.ee/tqdat410"><img src="https://img.shields.io/badge/Linktree-tqdat410-1f2937?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <!-- <a href="https://linktr.ee/tqdat410"><img src="https://img.shields.io/badge/Linktree-tqdat410-1f2937?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a> -->
 </p>
